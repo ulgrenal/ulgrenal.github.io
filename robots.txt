@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ulgrenal.github.io/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/app/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/assets/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/css/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/data/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/includes/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/item/sitemap.html.gz
+Sitemap: https://ulgrenal.github.io/src/sitemap.html.gz
